@@ -1,0 +1,29 @@
+/*Navbar_Background*/
+.navbar,.navbar-collapse                                                                           { background-color: #dbdeff }
+
+/*Navbar_Active*/
+.navbar-inverse .navbar-nav>.active>a,.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover                                                        { background-color: #a0a7ec }
+
+/*All_Navy*/
+.navbar-inverse .navbar-nav>li>a:hover,.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,.navbar-inverse .navbar-nav>.active>a:hover,
+.footer .title:hover p,.footer .Links div ul li:hover                                              { color: #2229af }
+
+.join_Now .yoga_Class .btn:active,.join_Now .yoga_Class .btn:hover,
+.Best_Instructor .btn:active,.Best_Instructor .btn:hover,.New_Experience .btn:active,
+.New_Experience .btn:hover,.Pricing .pric .btn:hover,.Pricing .pric .btn:active                    { background-color: #ab5ca5 }
+
+/*All_Green*/
+.join_Now .yoga_Class h2,.join_Now .yoga_Class p,.our_States h2,.our_States p,.Best_Instructor .btn,
+.New_Experience h2,.New_Experience p,.Pricing .pric h3,h4,.Pricing .pric p,.Trainer_Devandra h3,
+.Trainer_Devandra p,.Subscribe .form-inline .form-control,.Subscribe .form-inline .btn,
+.footer .title h3,.footer .title p,.footer .Links div h3,.footer .Links div ul li,.Scroll_Top       { color: #7b87ff }
+
+.join_Now .yoga_Class .btn,.choose_Class,.Best_Instructor,.New_Experience .btn,.Pricing,
+.Pricing .pric .btn,.Subscribe,.Scroll_Top:hover,.navbar-toggle                                     { background-color: #7b87ff }
+
+.Our_States .stat                                                                                   { border: 3px solid #7b87ff }
+
+/*Copyright_Background*/
+.copy  div                                                                                          { background-color: #464b7d }
